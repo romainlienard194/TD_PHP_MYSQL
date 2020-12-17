@@ -1,0 +1,24 @@
+.header {
+    
+    text-align: center;
+    background-color: aqua;
+    height: 100px;
+    padding-top: 30px;
+}
+
+.contenu {
+
+    text-align: center;
+    background-color: orange;
+    height: 673px;
+    padding-top: 20px
+
+}
+
+.footer {
+
+    text-align: center;     
+    background-color: palegreen;
+    height: 100px;
+    padding-top: 30px;
+}
