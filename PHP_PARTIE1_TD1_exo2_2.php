@@ -18,7 +18,7 @@
 
         echo '<table border="3">';
         for($info = 0; $info < 3; $info++)
-        {
+        { 
         echo '<td>'. $information[$info]. '</td>';
         }
 

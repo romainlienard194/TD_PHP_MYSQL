@@ -17,7 +17,7 @@
         <form action="" method="GET">
         
         <p> Votre prénom : <input type="text" name ="nom"/> </p>
-        <p> Votre âge : <input type="text" name ="age"/> </p>
+        <p> Votre âge : <input type="text" name ="age"/> </p> 
         <p><input type="submit" name ="OK"/> </p>
 
         </form>

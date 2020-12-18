@@ -20,7 +20,7 @@
             <hr width="500" size="10"/>
 
         <div align="right">
-            <p><font size="1">Bonjour</font></p>
+            <p><font size="1">Bonjour</font></p> 
             <p><font size="2">Bonjour</font></p>
             <p><font size="3">Bonjour</font></p>
             <p><font size="4">Bonjour</font></p>

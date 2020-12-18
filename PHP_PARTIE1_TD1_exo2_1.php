@@ -19,7 +19,7 @@
     $tableau = array ('1', '2', '3', '4', '5');
         echo'<table border="1"><tr>';
         for($numero =0; $numero < 5; $numero++)
-        {
+        { 
             echo "<td>".$tableau[$numero]. "</td>";
         }
     ?>

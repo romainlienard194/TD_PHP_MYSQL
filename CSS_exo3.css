@@ -25,7 +25,7 @@ div#piedpage {
 div#menu {
         float:left;
         position: relative;
-        top:-450px;
+        top:-450px; 
           height:0px;
         background-color:#FF6699;
 }

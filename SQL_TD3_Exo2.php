@@ -27,7 +27,7 @@
             <strong>
                 <p>Requête 3</p>
             </strong>
-            <img src="requete3sql.png">
+            <img src="requete3sql.png"> 
             <strong>
                 <p>Requête 4</p>
             </strong>

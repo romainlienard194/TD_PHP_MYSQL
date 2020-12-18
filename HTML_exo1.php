@@ -19,7 +19,7 @@
 
         <p><i>Bonjour</i>, il faut reconnaitre que la programmation HTML est facile.</p>
     
-        <p><strong>Toutefois</strong>, il faut faire attention à tout pour obtenir le résultat vouluu</p>
+        <p><strong>Toutefois</strong>, il faut faire attention à tout pour obtenir le résultat vouluu</p> 
 
         <p><a href="exo2.html">Exercice 2</a></p>
         <p><a href="exo3.html">Exercice 3</a></p>

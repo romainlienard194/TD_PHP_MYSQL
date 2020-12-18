@@ -42,7 +42,7 @@ while ($Data = $Result->fetch())
 ?>
    
     <tr>
-        <td><?php echo $Data["nom"];?></td>
+        <td><?php echo $Data["nom"];?></td> 
         <td><?php echo $Data["prénom"];?></td>
     </tr>
 <?php

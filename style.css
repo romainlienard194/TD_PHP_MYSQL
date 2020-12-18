@@ -17,7 +17,7 @@ nav ul li {
   text-align: center;
   position: relative;
 }
-
+ 
 nav ul::after {
   content: "";
   display: table;

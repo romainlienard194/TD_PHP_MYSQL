@@ -22,7 +22,7 @@
 
         <div id="contenu">contenu
             <div id="blocnews">Bloc News</div>
-        </div>
+        </div> 
 
         <div id="piedpage">Pied de page</div>
 

@@ -26,7 +26,7 @@
         echo '<td>'.$colonne1.'</td>';
         echo '<td>'.$colonne2.'</td>';
         echo '<td>'.$colonne3.'</td>';
-    echo '</table>';
+    echo '</table>'; 
     {
         tableau();
     }

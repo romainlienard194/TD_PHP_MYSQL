@@ -40,7 +40,7 @@ try{
 
         if($Result->rowCount()>=1){
             echo "tu es connecté";
-        }else{
+        }else{ 
             echo "le nom ou le prenom est incorrect";
         };
 

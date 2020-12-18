@@ -21,7 +21,7 @@
 <body> 
 
 <form action="" method="post">
-    Votre login : <input type="text" name="login">
+    Votre login : <input type="text" name="login"> 
     Votre mot de passe : <input type="password" name="motdepasse"><br />
     <input type="submit" value="Connexion">
 </form>

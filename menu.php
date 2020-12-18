@@ -63,7 +63,7 @@
         <li class="deroulant"><a href="">SQL TD3</a>
             <ul class="sous">
                 <li><a href="SQL_TD3_Exo2.php">Exercice 2 </a></li>
-            </ul>
+            </ul> 
         </li>
 
         <li class="deroulant"><a href="">BDD TD4</a>

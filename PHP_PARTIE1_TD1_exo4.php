@@ -22,7 +22,7 @@
 
         if( $delta < 0)
             echo ' Il existe aucune solution donc S = ∅.';
-
+ 
         if ( $delta == 0)
 
             echo ' Il existe une solution réelle.'. -$b / ( 2 * $a);

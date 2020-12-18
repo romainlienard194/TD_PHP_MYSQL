@@ -20,7 +20,7 @@
 </head>
 <body>
     <div>
-        <h1>Exercice 8</h1>
+        <h1>Exercice 8</h1> 
         <form action="" method="post">
             <label for="name">Entrez votre nom :</label>
             <input type="text" name="name" id="name" required>

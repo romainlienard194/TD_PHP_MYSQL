@@ -22,8 +22,7 @@
 
             <h1>Bandeau<h1>
 
-        </div>
-
+        </div> 
 
         <div class="menu">
 

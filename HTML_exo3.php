@@ -20,7 +20,7 @@
             <caption>Liste des matières</caption>
 
                 <thead>
-                    <tr>
+                    <tr> 
                         <td> </td>
                         <th>1er semestre</th>
                         <th>2ème semestre</th>

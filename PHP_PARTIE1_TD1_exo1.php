@@ -18,7 +18,7 @@
     ?>
     <?php 
         $NombreAleatoire = rand (0,100);
-
+ 
         if($NombreAleatoire%2 == 1){
 
             echo '<div class="paire"> Paire </div>';

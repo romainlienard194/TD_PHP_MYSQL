@@ -21,7 +21,7 @@
 
         <div id="bandeau">Bandeau</div>
 
-        <div id="contenu">contenu
+        <div id="contenu">contenu 
             <div id="blocnews">Bloc News</div>
         </div>
 

@@ -24,7 +24,7 @@
     <div>
         <h1>Exercice Final</h1>
     <?php
-
+ 
     if($_SESSION['loged']==true){
         echo '<form action="" method="post">
                 <label for="name">Entrez votre nom :</label>

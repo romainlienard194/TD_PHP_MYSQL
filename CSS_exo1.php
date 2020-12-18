@@ -17,10 +17,10 @@
     </head>
 
 
-    <body>
+    <body> 
 
         <div class="header">
-
+ 
             <h1>Bandeau</h1>
 
         </div>

@@ -20,7 +20,7 @@
         <p> Votre âge : <input type="text" name ="age"/> </p>
         <p><input type="submit" name ="OK"/> </p>
 
-        </form>
+        </form> 
 
         <p class="p">Bonjour, <?php echo htmlspecialchars($_POST['nom']); ?>.
         Tu as <?php echo (int)$_POST['age']; ?> ans.</p>

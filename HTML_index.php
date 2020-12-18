@@ -21,7 +21,7 @@
             <p><font size="15">Lien vers les <strong>exercices 1, 2 et 3</strong> :</font></p>
 
             <p><a href="exo1css.html">Exercice 1</a><p>
-            <p><a href="exo2css.html">Exercice 2</a></p>
+            <p><a href="exo2css.html">Exercice 2</a></p> 
             <p><a href="exo3css.html">Exercice 3</a></p>
             <p><a href="exo4css.html">Exercice 4</a></p>
             <p><a href="formulaire.html">Formulaire html</a></p>
