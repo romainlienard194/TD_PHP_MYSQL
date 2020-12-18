@@ -1,6 +1,3 @@
-<?php
-    function menu() {
-?>
 
 <html>
 
@@ -15,54 +12,65 @@
 </head>
 <nav>
     <ul>
-        <li class="deroulant"><a href="">HTML</a>
+        <li class="deroulant"><a href="">HTML/CSS</a>
             <ul class="sous">
-                <li><a href="HTML/HTML_exo1.php">Exercice 1 </a></li>
-                <li><a href="HTML/HTML_exo2.php">Exercice 2 </a></li>
-                <li><a href="HTML/HTML_exo3.php">Exercice 3 </a></li>
-                <li><a href="HTML/HTML_formulaire.php">Exercice Formulaire </a></li>
-            </ul>
-        </li>
-
-        <li class="deroulant"><a href="">CSS</a>
-            <ul class="sous">
-                <li><a href="CSS/CSS_exo1.php">Exercice 1 </a></li>
-                <li><a href="CSS/CSS_exo2.php">Exercice 2 </a></li>
-                <li><a href="CSS/CSS_exo3.php">Exercice 3 </a></li>
-                <li><a href="CSS/CSS_exo4.php">Exercice 4 </a></li>
+                <p>Exercice HTML</p>
+                <li><a href="HTML_exo1.php">Exercice 1 </a></li>
+                <li><a href="HTML_exo2.php">Exercice 2 </a></li>
+                <li><a href="HTML_exo3.php">Exercice 3 </a></li>
+                <li><a href="HTML_formulaire.php">Exercice Formulaire </a></li>
+                <p>Exercice CSS</p>
+                <li><a href="CSS_exo1.php">Exercice 1 </a></li>
+                <li><a href="CSS_exo2.php">Exercice 2 </a></li>
+                <li><a href="CSS_exo3.php">Exercice 3 </a></li>
+                <li><a href="CSS_exo4.php">Exercice 4 </a></li>
             </ul>
         </li>
 
         <li class="deroulant"><a href="">PHP PARTIE 1</a>
             <ul class="sous">
-                <li><a href="PHP/td1/PHP_PARTIE1_exo1.php">Exercice 1 </a></li>
-                <li><a href="PHP/TD1/PHP_PARTIE1_exo2.php">Exercice 2 </a></li>
-                <li><a href="PHP/TD1/PHP_PARTIE1_exo3.php">Exercice 3 </a></li>
-                <li><a href="PHP/TD1/PHP_PARTIE1_exo4.php">Exercice 4 </a></li>
-                <li><a href="PHP/TD1/PHP_PARTIE1_exo5.php">Exercice 5 </a></li>
-                <li><a href="PHP/TD1/PHP_PARTIE1_exo6.php">Exercice 6 </a></li>
-                <li><a href="PHP/TD1/PHP_PARTIE1_exo7.php">Exercice 7 </a></li>
-                <li><a href="PHP/TD1/PHP_PARTIE1_exo8.php">Exercice 8 </a></li>
-                <li><a href="PHP/TD1/PHP_PARTIE1_exoFinal.php">Exercice Final </a></li>
+                <li><a href="PHP_PARTIE1_TD1_exo1.php">Exercice 1 </a></li>
+                <li><a href="PHP_PARTIE1_TD1_exo2_1.php">Exercice 2.1 </a></li>
+                <li><a href="PHP_PARTIE1_TD1_exo2_2.php">Exercice 2.2 </a></li>
+                <li><a href="PHP_PARTIE1_TD1_exo3.php">Exercice 3 </a></li>
+                <li><a href="PHP_PARTIE1_TD1_exo4.php">Exercice 4 </a></li>
+                <li><a href="PHP_PARTIE1_TD1_exo5.php">Exercice 5 </a></li>
+                <li><a href="PHP_PARTIE1_TD1_exo6.php">Exercice 6 </a></li>
+                <li><a href="PHP_PARTIE1_TD1_exo7.php">Exercice 7 </a></li>
+                <li><a href="PHP_PARTIE1_TD1_exo8.php">Exercice 8 </a></li>
+                <li><a href="PHP_PARTIE1_TD1_exoFinal.php">Exercice Final </a></li>
             </ul>
 
         <li class="deroulant"><a href="">PHP PARTIE 2</a>
             <ul class="sous">
-                <li><a href="PHP/TD2/PHP_PARTIE2_TD2_exo1.php">Exercice 1 </a></li>
-                <li><a href="PHP/TD2/PHP_PARTIE2_TD2_exo2.php">Exercice 2 </a></li>
-                <li><a href="PHP/TD2/PHP_PARTIE2_TD2_exo3.php">Exercice 3 </a></li>
-                <li><a href="PHP/TD2/PHP_PARTIE2_TD2_fonction.php">Fonction </a></li>
+                <li><a href="PHP_PARTIE2_TD2_exo1.php">Exercice 1 </a></li>
+                <li><a href="PHP_PARTIE2_TD2_exo2.php">Exercice 2 </a></li>
+                <li><a href="PHP_PARTIE2_TD2_exo3.php">Exercice 3 </a></li>
+                <li><a href="PHP_PARTIE2_TD2_fonction.php">Fonction </a></li>
             </ul>
         </li>
 
-        </li>
 
         <li class="deroulant"><a href="">PHP & MySQL</a>
             <ul class="sous">
-                <li><a href="PHP/td2/PHP_PARTIE1_TD2_exo1.php">Exercice 1 </a></li>
-                <li><a href="PHP_PARTIE1_TD2_exo2.php">Exercice 2 </a></li>
-                <li><a href="PHP_PARTIE1_TD2_exo3.php">Exercice 3 </a></li>
-                <li><a href="PHP_PARTIE1_TD2_fonction.php">Fonction </a></li>
+                <li><a href="PHP_PARTIE2_TD2_exo1.php">Exercice 1 </a></li>
+                <li><a href="PHP_PARTIE2_TD2_exo2.php">Exercice 2 </a></li>
+                <li><a href="PHP_PARTIE2_TD2_exo3.php">Exercice 3 </a></li>
+                <li><a href="PHP_PARTIE2_TD2_fonction.php">Fonction </a></li>
+            </ul>
+        </li>
+
+        <li class="deroulant"><a href="">SQL TD3</a>
+            <ul class="sous">
+                <li><a href="SQL_TD3_Exo2.php">Exercice 2 </a></li>
+            </ul>
+        </li>
+
+        <li class="deroulant"><a href="">BDD TD4</a>
+            <ul class="sous">
+                <li><a href="SQL_TD4_Exo1.php">Exercice 1 </a></li>
+                <li><a href="SQL_TD4_Exo2.php">Exercice 2 </a></li>
+                <li><a href="SQL_TD4_Exo3.php">Exercice 3 </a></li>
             </ul>
         </li>
     </ul>
@@ -72,6 +80,3 @@
 </body>
 
 </html>
-<?php
-    }
-?>
